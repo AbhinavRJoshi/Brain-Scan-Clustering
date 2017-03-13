@@ -1,2 +1,2 @@
 # Brain-Scan-Clustering
-Clustering brain MRI scans to identify potential tumors
+Using k-means clustering to identify potential tumors from MRI brain scans
